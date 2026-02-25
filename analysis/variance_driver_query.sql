@@ -1,5 +1,6 @@
--- This query produces the top 3 variance drivers per month
--- for actual vs budget analysis.
+-- Produces the top 3 variance drivers per month
+-- Variance defined as Actual - Budget
+-- Ranking based on absolute variance magnitude
 
 SELECT
   month,
@@ -44,3 +45,4 @@ AND a.account_name = b.account_name
 WHERE rn <= 3
 
 ORDER BY month, ABS(variance) DESC;
+
