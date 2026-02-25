@@ -29,8 +29,8 @@ Full results available in `final_output/top_variance_drivers_by_month.csv`.
 Product Sales revenue underperformance emerged as the primary recurring variance driver across the period, while Marketing expense appeared as a secondary, volatile contributor in select months.
 ‎
 ## Assumptions
-Variance = actuals - budget
-Negative revenue variance interpreted as underperformance
+- Variance = actuals - budget
+- Negative revenue variance interpreted as underperformance
 ‎
 ## Notes
 Focuses on high-integrity data modeling and variance analysis to ensure executive-level accuracy.
