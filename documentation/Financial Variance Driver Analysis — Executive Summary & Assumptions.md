@@ -5,7 +5,7 @@ Product Sales revenue underperformance is the primary recurring variance driver 
 ‎
 
 
-**Assumptions and Scope Note**
+## ASSUMPTIONS AND SCOPE NOTE
 
 Variance = actuals - budget
 
@@ -118,6 +118,7 @@ No accrual timing adjustments applied.
 Dates originally provided in M/D/YYYY text format for the actuals and budget, thus normalized to ISO format during preprocessing for consistent monthly aggregation.
 
 Actuals and budget reconciled at monthly grain using normalized date fields.
+
 
 
 
