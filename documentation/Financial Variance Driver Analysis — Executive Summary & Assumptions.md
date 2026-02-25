@@ -1,15 +1,16 @@
-**EXECUTIVE SUMMARY**
+# EXECUTIVE SUMMARY
 
 Product Sales revenue underperformance is the primary recurring variance driver across the period, appearing in multiple months and accounting for the largest absolute variances. March and May represent the highest variance months, both dominated by Product Sales revenue shortfalls rather than cost overruns. Overall, revenue variances are predominantly negative and materially larger than cost variances, which appear mixed and comparatively smaller in magnitude.
 
 ‎
 
+## Final Output Table
+The final output table contains the top three variance drivers per month, ranked by absolute variance (Actual − Budget). Only the most material drivers are retained to focus attention on decision-relevant contributors.
+
+‎
 
 
-
-
-
-**VARIANCE DRIVER ANALYSIS:**
+## VARIANCE DRIVER ANALYSIS:
 
 **Primary drivers**
 
@@ -50,7 +51,7 @@ Marketing: volatile variance (intermittent, non-persistent)
 
 
 
-**DATA ASSUMPTIONS \& VALIDATION:**
+## DATA ASSUMPTIONS \& VALIDATION:
 
 
 
@@ -115,6 +116,7 @@ Negative revenue variance interpreted as underperformance
 Monthly aggregation at account level
 
 Analysis limited to top 3 absolute drivers per month
+
 
 
 
