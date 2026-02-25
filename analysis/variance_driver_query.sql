@@ -1,3 +1,6 @@
+-- This query produces the top 3 variance drivers per month
+-- for actual vs budget analysis.
+
 SELECT
   month,
   account_name,
@@ -39,4 +42,5 @@ AND a.account_name = b.account_name
 )
 )
 WHERE rn <= 3
+
 ORDER BY month, ABS(variance) DESC;
