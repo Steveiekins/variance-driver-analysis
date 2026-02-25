@@ -26,3 +26,6 @@ Product Sales revenue underperformance emerged as the primary recurring variance
 
 ## Notes
 This project prioritizes data validation discipline, analytical correctness, and executive-level synthesis over visualization.
+
+## Tech stack
+SQL, Excel
