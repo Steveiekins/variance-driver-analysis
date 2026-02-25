@@ -4,7 +4,7 @@ Product Sales revenue underperformance is the primary recurring variance driver 
 
 ‎
 
-## Final Output Table
+## FINAL OUTPUT TABLE
 The final output table contains the top three variance drivers per month, ranked by absolute variance (Actual − Budget). Only the most material drivers are retained to focus attention on decision-relevant contributors.
 
 ‎
@@ -116,6 +116,7 @@ Negative revenue variance interpreted as underperformance
 Monthly aggregation at account level
 
 Analysis limited to top 3 absolute drivers per month
+
 
 
 
