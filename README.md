@@ -19,9 +19,9 @@ Below is a sample of the final variance driver table which includes the top 3 dr
 
 | Month      | Account         | Variance |
 |------------|-----------------|----------|
-| 2024-01-01 | Product Sales   | -5000  |
-| 2024-01-01 | Cost of Goods Sold | 2000  |
-| 2024-01-01 | Service Revenue |  2000  |
+| 2024-01-01 | Product Sales   | -5,000  |
+| 2024-01-01 | Cost of Goods Sold | 2,000  |
+| 2024-01-01 | Service Revenue |  2,000  |
 
 Full results available in `final_output/top_variance_drivers_by_month.csv`.
 
