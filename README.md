@@ -15,13 +15,13 @@ Which revenue and cost accounts are driving the variance between actual results 
 - Synthesized results into executive-level insights
 ‎‎
 ## Key Output (Preview)
-Below is a sample of the final variance driver table (top drivers per month):
+Below is a sample of the final variance driver table which includes the top 3 drivers for a month:
 
 | Month      | Account         | Variance |
 |------------|-----------------|----------|
-| 2024-03-01 | Product Sales   | -45,000  |
-| 2024-05-01 | Product Sales   | -38,000  |
-| 2024-04-01 | Marketing Spend |  22,000  |
+| 2024-01-01 | Product Sales   | -5000  |
+| 2024-01-01 | Cost of Goods Sold | 2000  |
+| 2024-01-01 | Service Revenue |  2000  |
 
 Full results available in `final_output/top_variance_drivers_by_month.csv`.
 
@@ -29,7 +29,7 @@ Full results available in `final_output/top_variance_drivers_by_month.csv`.
 Product Sales revenue underperformance emerged as the primary recurring variance driver across the period, while Marketing expense appeared as a secondary, volatile contributor in select months.
 
 ## Notes
-This project prioritizes data validation discipline, analytical correctness, and executive-level synthesis over visualization.
+Focuses on high-integrity data modeling and variance analysis to ensure executive-level accuracy.
 
 ## Tech stack
-SQL, Excel
+SQL (joins, aggregation, ranking), Excel
