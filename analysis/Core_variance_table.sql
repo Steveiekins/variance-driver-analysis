@@ -1,5 +1,4 @@
--- This Query is the core variance table between
--- actual and budget for analysis
+-- Core variance table between actual and budget for analysis
 
 SELECT
   month,
@@ -35,4 +34,5 @@ GROUP BY month, account_name
 ON a.month = b.month
 AND a.account_name = b.account_name 
 )
+
 
